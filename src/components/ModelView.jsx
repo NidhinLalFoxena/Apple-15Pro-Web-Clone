@@ -9,7 +9,7 @@ import * as THREE from "three";
 import Lights from "./Lights";
 import Loader from "./Loader";
 import { Suspense } from "react";
-import IPhone from "./Iphone";
+import IPhone from "./IPhone.jsx";
 
 const ModelView = ({
   index,
